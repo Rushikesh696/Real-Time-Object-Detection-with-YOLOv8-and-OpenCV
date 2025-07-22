@@ -9,6 +9,13 @@ Uses YOLOv8 Nano (pre-trained on COCO dataset)
 Displays bounding boxes, labels, and confidence scores  
 Simple and beginner-friendly Python code 
 
+### Acknowledgements
+Ultralytics YOLOv8
+
+OpenCV
+
+Flask
+
 ### What is YOLOv8 Nano (pre-trained on COCO dataset)?
 1. **YOLOv8**
 
